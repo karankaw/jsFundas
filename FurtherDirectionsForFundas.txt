@@ -1,0 +1,32 @@
+•Then 2 Func or catch necessary 
+
+•Both promise and callback 
+
+•If err return; No else for success node style  
+
+•Util.promisify {}  
+
+•Still we have callback like in promise 
+
+•Import  
+
+•Async await 
+
+•Util.promisify or just util  
+
+•Can we submodule require 
+
+• export = {value , value} valid ???? no keys 
+
+•.Then 2  or .Then 1 . Catch 1 ... diff 
+
+•=&gt; return required ??? Or default 
+
+•Chk how function allowed without key: Value 
+
+•Undefined vs null 
+
+•Undeclared vs undefined or explicit null no 
+
+•javascript "" or no double quotes in key part of JavaScript object. JS Object can contain Functions , but JSON objects cannot have functions
+
